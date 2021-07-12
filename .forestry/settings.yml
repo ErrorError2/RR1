@@ -10,6 +10,9 @@ sections:
   path: exampleSite/content/english/_index.md
   label: Homepage (en)
 - type: document
+  path: exampleSite/content/nederlands/_index.md
+  label: Homepage (nl)
+- type: document
   path: exampleSite/content/deutsch/_index.md
   label: Homepage (de)
 - type: heading
