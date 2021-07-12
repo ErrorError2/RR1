@@ -15,8 +15,8 @@ copyright = "Design By [Themefisher](https://themefisher.com/) Develop By [Gethu
 
 
 ############################# Deutsch ############################
-[de]
-languageName = "De"
+[nl]
+languageName = "Nl"
 title = "Bigspring Hugo"
 contentDir = "content/deutsch" # content/german
 weight = 2
