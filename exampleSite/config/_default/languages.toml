@@ -30,16 +30,3 @@ copyright = "Design von [Themefisher](https://themefisher.com/) Entwickelt von [
 
 
 
-############################# Nederlands ############################
-[nl]
-languageName = "Nl"
-title = "Bigspring Hugo"
-contentDir = "content/nederlands" # content/nederlands
-weight = 3
-########### footer content ##########
-footer_menu_left = "Firma"
-footer_menu_middle = "Produkte"
-footer_menu_right = "Support"
-footer_content = "Lorem ipsum dolor sit amet, consectetur elit. Consjat tristique eget amet, tempus eu at cttur."
-# copyright
-copyright = "Design von [Themefisher](https://themefisher.com/) Entwickelt von [Gethugothemes](https://gethugothemes.com/)"
